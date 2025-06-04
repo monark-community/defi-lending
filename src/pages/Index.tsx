@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -114,7 +113,7 @@ const Index = () => {
               <Button 
                 variant="outline" 
                 size="lg" 
-                className="border-slate-600 text-slate-300 hover:bg-slate-800 px-8 py-3"
+                className="border-white text-white bg-transparent hover:bg-white/10 px-8 py-3"
               >
                 Learn More
               </Button>
